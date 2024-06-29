@@ -1,5 +1,5 @@
 <h1 align="center"/>What is sslauto?</h1>
-<h3>sslauto (SSL AUTO) is a user-friendly script designed to streamline the process of obtaining SSL certificates through various methods. It simplifies the procedure, sparing users from confusing and unnecessary commands. just copy and paste one line so that everything is done automatically.</h2>h3
+<h3>sslauto (SSL AUTO) is a user-friendly script designed to streamline the process of obtaining SSL certificates through various methods. It simplifies the procedure, sparing users from confusing and unnecessary commands. just copy and paste one line so that everything is done automatically.</h3>
 
 
 
