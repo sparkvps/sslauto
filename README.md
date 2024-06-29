@@ -5,7 +5,8 @@
 <p align="center"> just copy/paste and enjoy :
 
 ```
-curl -o install.sh -L https://raw.githubusercontent.com/sparkvps/sslauto/main/auto.sh
+sudo bash -c "$(curl -sL https://github.com/sparkvps/sslauto/blob/main/auto.sh)"
+
 ```
 
 ## SUPPORT THE PROJECT
