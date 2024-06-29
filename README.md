@@ -3,6 +3,7 @@
 
 <h1 align="center"/>How to Use?</h1>
 ##just copy/paste and enjoy :
+
 ```
 sudo bash -c "(https://raw.githubusercontent.com/sparkvps/sslauto/main/auto.sh)"
 ```
