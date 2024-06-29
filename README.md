@@ -1,8 +1,11 @@
 <h1 align="center"/>What is sslauto?</h1>
 <h3 align="center"/>sslauto (SSL AUTO) is a user-friendly script designed to streamline the process of obtaining SSL certificates through various methods. It simplifies the procedure, sparing users from confusing and unnecessary commands. just copy and paste one line so that everything is done automatically.</h3>
 
-
-
+<h1 align="center"/>How to Use?</h1>
+##just copy/paste and enjoy :
+```
+sudo bash -c "(https://raw.githubusercontent.com/sparkvps/sslauto/main/auto.sh)"
+```
 
 ## SUPPORT THE PROJECT
 
